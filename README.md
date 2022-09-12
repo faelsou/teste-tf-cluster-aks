@@ -20,6 +20,6 @@ terraform plan
 
 terraform apply
 
-Caso queira destrir 
+Caso queira destruir 
 
 terraform destroy
